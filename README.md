@@ -21,7 +21,10 @@ Image enhancement has recently gained considerable attention owing to its benefi
 
 ## Framework 
 
-<img src="./Figures/Overall.pdf">
+<h1> Flowchart </h1>
+<img src="./Figures/Flowchart.png">
+<h1> Overall Architecture </h1>
+<img src="./Figures/Overall.png">
 
 
 
