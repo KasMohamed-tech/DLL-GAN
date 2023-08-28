@@ -21,5 +21,7 @@ Image enhancement has recently gained considerable attention owing to its benefi
 
 ## Framework 
 
+<img src="./Figures/Overall.pdf">
+
 
 
